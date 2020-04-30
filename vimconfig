@@ -7,7 +7,7 @@ call plug#end()
 
 
 filetype plugin indent on
-syntax on	" Attiva la sintassi per i linguaggi
+syntax on	
 filetype plugin on
 filetype indent on
 
